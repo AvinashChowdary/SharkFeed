@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Shark Feed</string>
+    <string name="swipe_to_start_feeding">Swipe to Start Feeding</string>
+    <string name="download">Download</string>
+    <string name="open_in_app">Open in App</string>
+    <string name="loading_sharks">Loading Sharks</string>
+    <string name="cancel">Cancel</string>
+    <string name="failed_to_load_sharks">Failed to load sharks</string>
+    <string name="no_internet">Not connected to internet. Pull down to try again.</string>
+    <string name="download_success">Downloaded Image Successfully!</string>
+    <string name="download_failed">There was a problem downloading the image. Please try again!</string>
+    <string name="no_storage">No external storage found. Could not download image.</string>
+    <string name="image_exists">Image already exists in the application folder of SD card</string>
+    <string name="transition_string">transition_string</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="failed_to_load_image">Failed to load image, please try again!</string>
+    <string name="title">Title: </string>
+    <string name="description">Description: </string>
+    <string name="owner">Owner: </string>
+    <string name="views">Views: </string>
+    <string name="link_not_found">Sorry, could not find a flickr link for the image.</string>
+    <string name="ok">OK</string>
+</resources>
